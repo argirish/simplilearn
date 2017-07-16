@@ -16,7 +16,7 @@
       <scope>test</scope>
     </dependency>
     
-    <!-- Spring framework -->
+    <!-- Spring this framework -->
 	<dependency>
 		<groupId>org.springframework</groupId>
 		<artifactId>spring</artifactId>
